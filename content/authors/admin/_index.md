@@ -47,8 +47,8 @@ education:
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
-  - are: Technical's degree, Business Administration and Management
-    institution: State Technical School
+  - area: AA in Business Administration and Management
+    institution: State Technical School of Pernambuco
     date_start: 2013
     date_end: 2015
   
