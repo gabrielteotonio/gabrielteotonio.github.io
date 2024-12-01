@@ -68,12 +68,9 @@ work:
     date_end: 
     summary: |2-
       As a Data Engineer, I bridge the gap between raw data and actionable insights. I design, develop, and maintain robust data pipelines from various sources into data warehouses. My work involves:
-
       - Designed and implemented efficient data pipelines using tools like Apache Spark, Trino, and DBT;
-#      - Built and maintained data warehouses and data lakes on AWS;
       - Ensured data quality, consistency, and security through testing and monitoring;
       - Collaborated with data analysts, data scientists, and business stakeholders to understand their needs and deliver actionable insights.
-#      - Stayed up-to-date with the latest data technologies and industry trends.
 
       By ensuring data quality, security, and accessibility, I empower data-driven decision-making and innovation.
   - position: Data Scientist
