@@ -19,9 +19,9 @@ sections:
         text: Download Résumé
         url: uploads/resume.pdf
     design:
-      banner:
+      #banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: IMG20231104165058~2.jpg
+        #filename: IMG20231104165058~2.jpg
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
