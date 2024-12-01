@@ -33,6 +33,16 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
+  - block: collection
+    id: talks
+    content:
+      title: Talks
+      filters:
+        folders:
+          - talk
+    design:
+      view: article-grid
+      columns: 1
   - block: skills
     content:
       title: Skills & Hobbies
