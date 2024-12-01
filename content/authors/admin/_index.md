@@ -68,9 +68,9 @@ work:
     date_end: 
     summary: |2-
       As a Data Engineer, I bridge the gap between raw data and actionable insights. I design, develop, and maintain robust data pipelines from various sources into data warehouses. My work involves:
-      - Designed and implemented efficient data pipelines using tools like Apache Spark, Trino, and DBT;
-      - Ensured data quality, consistency, and security through testing and monitoring;
-      - Collaborated with data analysts, data scientists, and business stakeholders to understand their needs and deliver actionable insights.
+      - Design and implement efficient data pipelines using tools like Apache Spark, Trino, and DBT;
+      - Ensure data quality, consistency, and security through testing and monitoring;
+      - Collaborate with data analysts, data scientists, and business stakeholders to understand their needs and deliver actionable insights.
 
       By ensuring data quality, security, and accessibility, I empower data-driven decision-making and innovation.
   - position: Data Scientist
@@ -154,4 +154,4 @@ work:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 ---
 
-I am currently Data Engineer at Incognia.
+I am currently Data Engineer at Incognia where I'm working on fraud prevention, location fingerprint, and passwordless authentication.
