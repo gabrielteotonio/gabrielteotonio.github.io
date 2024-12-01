@@ -31,26 +31,34 @@ profiles:
 education:
   - area: MSc in Computer Science
     institution: Federal University of Pernambuco
-    date_start: 2020
-    date_end: 2023
-    #summary: |
-    #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    #button:
-    #  text: 'Read Thesis'
-    #  url: 'https://example.com'
+    date_start: 2020-11-01
+    date_end: 2023-05-01
+    summary: |
+      Thesis on Variable Weighted Fuzzy Clustering Algorithm for Qualitative Data. 
+      Supervised by [Renata Maria Cardoso Rodrigues de Souza](http://lattes.cnpq.br/9289080285504453).
+    button:
+      text: 'Read Thesis'
+      url: uploads/Gabriel_Teotonio_s_Dissertation_deposito.pdf
   - area: BSc in Statistics
     institution: Federal University of Pernambuco
-    date_start: 2016
-    date_end: 2020
-    #summary: |
-    #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    #button:
-    #  text: 'Read Thesis'
-    #  url: 'https://example.com'
-  - area: AA in Business Administration and Management
+    date_start: 2016-03-01
+    date_end: 2020-11-01
+    summary: |
+      Thesis on Statistical Shape Analysis and K−Means Algorithm for 3D Data: A Cerebral Cortex Application.
+      Supervised by [Getúlio José Amorim do Amaral](http://lattes.cnpq.br/7674916684282039).
+    button:
+      text: 'Read Thesis (in Portuguese)'
+      url: uploads/Gabriel_s_TCC_FINAL.pdf
+  - area: Technician Diploma in Business Administration and Management
     institution: State Technical School of Pernambuco
-    date_start: 2013
-    date_end: 2015
+    date_start: 2013-02-01
+    date_end: 2015-12-01
+  - area: Exchange Student
+    institution: Taita College
+    date_start: 2014-06-01
+    date_end: 2014-12-01
+    summary: |
+       Participated in a semester-long exchange program at [Taita College](https://taita.school.nz/), New Zealand. Immersed myself in New Zealand's culture, improved language skills, and gained international experience while studying as a regular student.
   
 work:
   - position: Data Engineer
@@ -58,11 +66,25 @@ work:
     company_url: 'incognia.com'
     date_start: 2022-12-01
     date_end: 
+    summary: |2-
+      As a Data Engineer, I bridge the gap between raw data and actionable insights. I design, develop, and maintain robust data pipelines from various sources into data warehouses. My work involves:
+
+      - Designed and implemented efficient data pipelines using tools like Apache Spark, Trino, and DBT;
+#      - Built and maintained data warehouses and data lakes on AWS;
+      - Ensured data quality, consistency, and security through testing and monitoring;
+      - Collaborated with data analysts, data scientists, and business stakeholders to understand their needs and deliver actionable insights.
+#      - Stayed up-to-date with the latest data technologies and industry trends.
+
+      By ensuring data quality, security, and accessibility, I empower data-driven decision-making and innovation.
   - position: Data Scientist
     company_name: Incognia
     company_url: 'incognia.com'
     date_start: 2021-01-01
     date_end: 2022-12-01
+    summary: |2-
+      Incognia is a US-based sister company to Inloco, and also the name of our anti-fraud solutions in Brazil.
+
+      Our location technology offers private location awareness for use in mobile applications and connected devices. 30x more precise than GPS, Incognia uses network signals and on-device sensors to build an anonymous location behavioral pattern unique for each user, that provides location context and creates a private identity. Incognia is used by B2B and B2C companies for anonymized location insights, ID verification, authentication, and fraud detection.
   - position: Data Scientist
     company_name: In Loco
     company_url: ''
@@ -127,7 +149,7 @@ work:
 #  - name: Chinese
 #    percent: 75
 #  - name: Portuguese
-#    percent: 25
+#    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
