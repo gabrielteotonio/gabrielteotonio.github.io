@@ -34,22 +34,22 @@ sections:
       # Education or Experience section first?
       is_education_first: false
   - block: collection
-    id: talks
-    content:
-      title: Talks
-      filters:
-        folders:
-          - talk
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
     id: courses-and-certifications
     content:
       title: Courses and Certifications
       filters:
         folders:
           - courses-and-certifications
+    design:
+      view: article-grid
+      columns: 4
+  - block: collection
+    id: talks
+    content:
+      title: Talks
+      filters:
+        folders:
+          - talk
     design:
       view: article-grid
       columns: 2
