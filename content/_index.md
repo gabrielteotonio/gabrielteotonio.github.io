@@ -43,14 +43,16 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: skills
+  - block: collection
+    id: courses-and-certifications
     content:
-      title: Skills & Hobbies
-      username: admin
-  - block: awards
-    content:
-      title: Awards
-      username: admin
+      title: Courses and Certifications
+      filters:
+        folders:
+          - courses-and-certifications
+    design:
+      view: article-grid
+      columns: 2
   - block: languages
     content:
       title: Languages
