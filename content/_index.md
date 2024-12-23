@@ -53,8 +53,8 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: languages
-    content:
-      title: Languages
-      username: admin
+#  - block: languages
+#    content:
+#      title: Languages
+#      username: admin
 ---
