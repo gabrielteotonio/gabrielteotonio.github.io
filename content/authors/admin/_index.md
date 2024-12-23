@@ -84,10 +84,10 @@ work:
     date_start: 2021-01-01
     date_end: 2022-12-01
     summary: |2-
-      - Reduced ride-hailing user fraud by 90% and bank account takeover by 98% through the development and implementation of advanced fraud detection models
-      - Solved complex analysis problems, applying advanced analytical methods such as statistical modeling to identify and mitigate critical risks
-      - Built and prototyped high-performance analysis pipelines that scaled to handle massive datasets, enabling real-time insights and improved decision-making
-      - Collaborated closely with cross-functional engineering teams to identify, design, and implement Inloco’s product enhancements
+      - Reduced ride-hailing user fraud by 90% and bank account takeover by 98% through the development and implementation of advanced fraud detection models;
+      - Solved complex analysis problems, applying advanced analytical methods such as statistical modeling to identify and mitigate critical risks;
+      - Built and prototyped high-performance analysis pipelines that scaled to handle massive datasets, enabling real-time insights and improved decision-making;
+      - Collaborated closely with cross-functional engineering teams to identify, design, and implement Inloco’s product enhancements.
   - position: Data Scientist
     company_name: Inloco
     company_url: ''
@@ -95,9 +95,9 @@ work:
     date_start: 2019-06-03
     date_end: 2020-12-01
     summary: |2-
-      - Leveraged time series techniques such as ETS (Error-Trend-Seasonality) and ARIMA to analyze large-scale mobile device data and identify key trends and patterns in user behavior
-      - Conducted A/B testing and other experimentation to evaluate the effectiveness of different targeting strategies and optimize ad campaigns for maximum ROI
-      - Developed and presented data-driven insights and recommendations to senior leadership, influencing key business decisions
+      - Leveraged time series techniques such as ETS (Error-Trend-Seasonality) and ARIMA to analyze large-scale mobile device data and identify key trends and patterns in user behavior;
+      - Conducted A/B testing and other experimentation to evaluate the effectiveness of different targeting strategies and optimize ad campaigns for maximum ROI;
+      - Developed and presented data-driven insights and recommendations to senior leadership, influencing key business decisions.
   - position: Data Analyst Intern
     company_name: Inloco
     company_url: ''
@@ -105,9 +105,9 @@ work:
     date_start: 2018-06-07
     date_end: 2019-06-03
     summary: |
-      - Analyzed user behavior data to identify key trends and patterns in mobile usage, including app usage, location history, and demographics
-      - Developed insightful reports and dashboards to visualize user behavior and market trends, providing valuable insights for sales and business development teams
-      - Supported the sales team in identifying and qualifying potential customers by providing data-driven analysis of their target markets and user bases
+      - Analyzed user behavior data to identify key trends and patterns in mobile usage, including app usage, location history, and demographics;
+      - Developed insightful reports and dashboards to visualize user behavior and market trends, providing valuable insights for sales and business development teams;
+      - Supported the sales team in identifying and qualifying potential customers by providing data-driven analysis of their target markets and user bases.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`

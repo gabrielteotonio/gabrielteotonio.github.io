@@ -30,6 +30,7 @@ marketing:
 header:
   navbar:
     enable: true
+    position: sticky
     blox: floating-theme-toggler
 
 # Site footer
