@@ -49,7 +49,7 @@ sections:
       title: Talks
       filters:
         folders:
-          - talk
+          - talks
     design:
       view: article-grid
       columns: 2
