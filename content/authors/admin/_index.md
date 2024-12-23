@@ -44,15 +44,15 @@ education:
     date_start: 2016-03-01
     date_end: 2020-11-01
     summary: |
+      - Undergraduate Research Assistant;
+      - Probability & Exploratory Data Analysis Teaching Assistant;
+      - President, Statistics Department Academic Directory.
+  
       Thesis on Statistical Shape Analysis and K−Means Algorithm for 3D Data: A Cerebral Cortex Application.
       Supervised by [Getúlio José Amorim do Amaral](http://lattes.cnpq.br/7674916684282039).
     button:
       text: 'Read Thesis (in Portuguese)'
       url: uploads/Gabriel_s_TCC_FINAL.pdf
-
-      - Undergraduate Research Assistant
-      - Probability & Exploratory Data Analysis Teaching Assistant
-      - President, Statistics Department Academic Directory
   - area: Technician Diploma in Business Administration and Management
     institution: State Technical School of Pernambuco
     date_start: 2013-02-01
