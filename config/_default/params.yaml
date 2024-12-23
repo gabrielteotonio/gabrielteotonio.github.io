@@ -30,8 +30,12 @@ marketing:
 header:
   navbar:
     enable: true
-    position: sticky
-    blox: floating-theme-toggler
+    blox: "navbar"
+    fixed_to_top: true
+    show_search: true
+    show_theme_chooser: true
+    logo:
+      text: "Gabriel Teotonio"
 
 # Site footer
 footer:
