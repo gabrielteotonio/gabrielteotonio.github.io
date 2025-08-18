@@ -13,7 +13,7 @@ location = "Online"
 # Tags (optional)
 tags = ["Course", "Certification"]
 
-url_pdf = "https://drive.google.com/file/d/1jNMIXXudHTxxUUPMWxmHEg5YbBCe7ZTa/view?usp=sharing"
+url_pdf = "https://drive.google.com/file/d/1T0Ic5SeOeQkQlNQ5qAe-AVphzcGFhKr6/view?usp=sharing"
 
 # Featured image (optional)
 [image]
