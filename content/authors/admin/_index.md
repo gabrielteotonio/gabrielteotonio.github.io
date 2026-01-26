@@ -10,7 +10,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Data Engineer
+role: Data Engineer Coordinator
 
 # Organizations/Affiliations
 organizations:
@@ -65,11 +65,22 @@ education:
        Participated in a semester-long exchange program at [Taita College](https://taita.school.nz/), New Zealand. Immersed myself in New Zealand's culture, improved language skills, and gained international experience while studying as a regular student.
   
 work:
+  - position: Data Engineer Coordinator
+    company_name: Incognia
+    company_url: 'incognia.com'
+    date_start: 2025-12-16
+    date_end:
+    summary: |2-
+      - Lead a group of engineers focused on rapidly developing, scaling, and supporting data products for online and offline consumption by business and analytic stakeholders, while remaining actively engaged in technical problem-solving and solution design;
+      - Define and incorporate best practices in storage, processing, and copy/synchronization appropriate for the scale and maturity of our data products;
+      - Collaborate with business stakeholders to understand needs, align priorities, and translate them into effective data solutions;
+      - Work closely with cross-functional teams to prototype new concepts and deliver end-to-end systems in an agile setting;
+      - Produce high-quality systems with strong reliability and scalability.
   - position: Data Engineer
     company_name: Incognia
     company_url: 'incognia.com'
     date_start: 2022-12-01
-    date_end: 
+    date_end: 2025-12-16
     summary: |2-
       As a Data Engineer, I bridge the gap between raw data and actionable insights. I design, develop, and maintain robust data pipelines from various sources into data warehouses. My work involves:
       - Design and implement high-throughput data pipelines using Apache Spark, Trino, and DBT;
@@ -157,6 +168,6 @@ work:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 ---
 
-I am currently Data Engineer at Incognia where I'm working on fraud prevention, location fingerprint, and passwordless authentication.  
+I am currently a Data Engineer Coordinator at Incognia where I'm working on fraud prevention, location fingerprint, and passwordless authentication.  
 
 Incognia is a US-based sister company to Inloco, and also the name of our anti-fraud solutions in Brazil. Our location technology offers private location awareness for use in mobile applications and connected devices. 30x more precise than GPS, Incognia uses network signals and on-device sensors to build an anonymous location behavioral pattern unique for each user, that provides location context and creates a private identity. Incognia is used by B2B and B2C companies for anonymized location insights, ID verification, authentication, and fraud detection.
